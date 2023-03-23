@@ -1,5 +1,10 @@
 # Aine-MD
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/OwnMd2)](https://repl.it/github/MagoInterior/OwnMd2) 
+
+
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
